@@ -1,7 +1,7 @@
 # Social-Media-App-Twitter-
 Social-Media-App -OOPS-Backend-Project-SpringBoot-H2DataBase
 
-# Social Media Platform (Twitter Clone) API Documentation
+# Social Media Platform (Twitter) API Documentation
 
 This project implements a basic social media platform similar to Twitter, featuring user authentication, post creation, comment functionality, and user feed retrieval. The platform is built with RESTful API endpoints using Spring Boot, JPA for database interactions, and H2 as an in-memory database.
 
